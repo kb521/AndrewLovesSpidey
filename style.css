@@ -1,0 +1,27 @@
+header {
+  background-color: red;
+  margin: 0px;
+  padding: 50px;
+  color: white;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+  background-color: blue;
+  color: white;
+  padding: 100px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0px;
+}
+
+a {
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 20px;
+}
+
+a:link {color: white}
+a:visited {color: white}
+a:hover {color: red}
+a:active {color: red}
